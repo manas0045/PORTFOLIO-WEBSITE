@@ -54,6 +54,8 @@ Here is a conceptual image representation of the Portfolio Web Page:
 
 <img width="1847" height="921" alt="Image" src="https://github.com/user-attachments/assets/875b4b1e-2b31-44ad-9a72-26c14b93cbe5" />
 
+<img width="1793" height="980" alt="Image" src="https://github.com/user-attachments/assets/58400534-46e2-4625-91d1-e60c8d318621" />
+
 <img width="1656" height="728" alt="Image" src="https://github.com/user-attachments/assets/9ee73e41-aa8c-445b-bea6-6873d954efb6" />
 
 
