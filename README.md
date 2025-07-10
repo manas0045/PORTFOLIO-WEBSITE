@@ -52,6 +52,10 @@ Overall, this portfolio web page serves as an effective platform for showcasing 
 
 Here is a conceptual image representation of the Portfolio Web Page:
 
-![Portfolio Web Page](https://via.placeholder.com/800x400.png?text=Portfolio+Web+Page)
+<img width="1847" height="921" alt="Image" src="https://github.com/user-attachments/assets/875b4b1e-2b31-44ad-9a72-26c14b93cbe5" />
+
+<img width="1656" height="728" alt="Image" src="https://github.com/user-attachments/assets/9ee73e41-aa8c-445b-bea6-6873d954efb6" />
+
+
 
 This image illustrates the layout of the portfolio, showcasing the header, navigation, and various sections, emphasizing the clean and modern design.
