@@ -16,6 +16,8 @@ MENTOR :-NEELA SANTOSH
 
 The provided HTML and CSS code represents a personal portfolio web page designed to showcase an individual's skills, services, projects, and contact information. This portfolio is structured to provide a comprehensive overview of the individual, making it an effective tool for personal branding and professional networking.
 
+<img width="1873" height="993" alt="Image" src="https://github.com/user-attachments/assets/8aa02743-a30f-4ee1-bdc8-696f54412133" />
+
 #### Structure and Layout
 
 The portfolio is organized into several key sections, each serving a distinct purpose:
